@@ -1,4 +1,4 @@
-# Exercicios-realizados
-Exercícios de cada linguagem que já fiz
+# Exercícios Realizados
+Aprendendo a programar
 
 Usando VisualG e PyCharm
